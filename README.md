@@ -55,4 +55,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shameelvk">
 </a>
-<a href="https://github.com/shameelvk?tab=followers"><img src="https://img.shields.io/github/followers/MOHAMMEDSHAMEELVK?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shameelvk?tab=followers"><img src="https://img.shields.io/github/followers/shameelvk?label=Followers&style=social" alt="GitHub Badge"></a>
