@@ -30,8 +30,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/MOHAMMEDSHAMEELVK/github-readme-stats"><img alt="MOHAMMED SHAMEEL VK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MOHAMMEDSHAMEELVK&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MOHAMMEDSHAMEELVK/github-readme-stats"><img alt="MOHAMMED SHAMEEL VK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDSHAMEELVK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/shameelvk/github-readme-stats"><img alt="MOHAMMED SHAMEEL VK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shameelvk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shameelvk/github-readme-stats"><img alt="MOHAMMED SHAMEEL VK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameelvk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/MOHAMMEDSHAMEELVK/github-readme-activity-graph"><img alt="MOHAMMED SHAMEEL VK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MOHAMMEDSHAMEELVK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shameelvk/github-readme-activity-graph"><img alt="MOHAMMED SHAMEEL VK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shameelvk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -53,6 +53,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MOHAMMEDSHAMEELVK">
+    <img src="https://komarev.com/ghpvc/?username=shameelvk">
 </a>
-<a href="https://github.com/MOHAMMEDSHAMEELVK?tab=followers"><img src="https://img.shields.io/github/followers/MOHAMMEDSHAMEELVK?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shameelvk?tab=followers"><img src="https://img.shields.io/github/followers/MOHAMMEDSHAMEELVK?label=Followers&style=social" alt="GitHub Badge"></a>
