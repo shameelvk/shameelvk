@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I play games.**
 
+[![@shameelvk's Holopin board](https://holopin.me/shameelvk)](https://holopin.io/@shameelvk)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
