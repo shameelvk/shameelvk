@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **python and react.js.**
+- 🌱 I’m currently learning **react native and react.js.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
